@@ -1,0 +1,23 @@
+1. Address: Es una tipo de vairable que contiene un valor de 20 bytes (tamaño de una dirección Ethereum).
+2. BitCoin: Se trata de dinero electrónico (virtual) y no oficial que puede utilizarse como medio de intercambio en operaciones comerciales.
+3. CryptoWallet: Es una aplicación que permite a los usuarios de criptomonedas almacenar y recuperar sus activos digitales. Al igual que con la moneda convencional, no necesita una billetera para gastar su efectivo, pero ciertamente ayuda a mantenerlo todo en un solo lugar.
+4. Ethereum: es una plataforma digital que adopta la tecnología de cadena de bloques (blockchain) y expande su uso a una gran variedad de aplicaciones. 
+5. msg.sender: Se refiere a el hash que identifica al usuario actual que está interactuando con nuestro smart contract
+6. Return: Finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+7. Selfdestructur: Las autodestrucciones en Ethereum son una operación (un OPCODE en realidad) a nivel de EVM, independientemente del idioma o cliente que esté utilizando.
+8. Smart Contract: Es un tipo especial de instrucciones que es almacenada en la blockchain. Y que además tiene la capacidad de autoejecutar acciones de acuerdo a una serie de parámetros ya programados.
+9. String: Es una secuencia ordenada (de longitud arbitraria, aunque finita) de elementos que pertenecen a un cierto lenguaje formal o alfabeto análogas a una fórmula o a una oración.
+10. Value(uint): Recupera un objeto de función invocable. Después de que se llama a esa función, envía la cantidad especificada de wei a la función de destino.
+
+
+----Webgrafia------
+1. https://www.bitdegree.org/learn/solidity-types#:~:text=The%20address%20Solidity%20value%20type,have%20transfer%20and%20send%20members.
+2. https://www.bankrate.com/glossary/c/cryptocurrency-wallet/#:~:text=A%20cryptocurrency%20wallet%20is%20an,and%20retrieve%20their%20digital%20assets.&text=When%20a%20user%20acquires%20cryptocurrency,use%20it%20to%20make%20transactions.
+3. https://www.bitdegree.org/learn/solidity-types#addresses
+4. https://definicion.de/bitcoin/
+5. https://tech.tribalyte.eu/blog-introduccion-a-la-programacion-de-un-smart-contract#:~:text=para%20tal%20fin.-,%E2%80%9Cmsg.,interactuando%20con%20nuestro%20smart%20contract.&text=Esta%20direcci%C3%B3n%20o%20%C2%ABhash%C2%BB%20puede,en%20la%20cadena%20de%20bloques.
+6. (https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/return
+7. https://academy.bit2me.com/que-son-los-smart-contracts/
+8. https://es.wikipedia.org/wiki/Cadena_de_caracteres#:~:text=En%20programaci%C3%B3n%2C%20una%20cadena%20de,una%20f%C3%B3rmula%20o%20a%20una%20oraci%C3%B3n.
+
+ 
